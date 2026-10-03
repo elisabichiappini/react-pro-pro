@@ -9,4 +9,10 @@ body {
     margin: 0 auto;
     font-family: "Raleway", sans-serif;
     background-color: var(--colore-primary);
+    color: var(--colore-secondary);
+}
+
+
+h1 {
+    font-size: 40rem;
 }
