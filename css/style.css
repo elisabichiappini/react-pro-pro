@@ -21,3 +21,8 @@ body {
     text-align: center;
     color: violet;
 }
+
+.no-list {
+    list-style-type: none;
+}
+
