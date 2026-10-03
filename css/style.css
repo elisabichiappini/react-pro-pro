@@ -12,7 +12,12 @@ body {
     color: var(--colore-secondary);
 }
 
+ .main-title {
+    font-size: 8rem;
+    text-align: start;
+}
 
-h1 {
-    font-size: 40rem;
+.add-word {
+    text-align: center;
+    color: violet;
 }

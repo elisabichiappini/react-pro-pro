@@ -1,0 +1,13 @@
+@media screen and (min-width: 576px) {
+   .main-title {
+        font-size: 10rem;
+        text-align: center;
+}
+}
+
+@media screen and (min-width: 768px) {
+    .main-title {
+        font-size: 20rem;
+        text-align: center;
+    }
+}
